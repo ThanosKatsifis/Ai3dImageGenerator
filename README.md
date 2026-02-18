@@ -39,7 +39,7 @@ Powered by **ttkthemes** with the “Equilux” theme for a modern, professional
 
 ### 1. Clone the repo  
 ```bash
-git clone https://github.com/yourusername/ai-3d-design-generator.git
+git clone https://https://github.com/ThanosKatsifis/Ai3dImageGenerator.git
 cd ai-3d-design-generator
 ```
 
