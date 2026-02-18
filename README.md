@@ -26,6 +26,8 @@ Navigate your generated images with:
 - **Left / Right arrow keys**
 - **Next / Previous buttons**
 - Auto‑resized previews for a clean UI
+- <img width="552" height="832" alt="Στιγμιότυπο οθόνης 2026-02-18 191300" src="https://github.com/user-attachments/assets/2777e732-5d9b-4b28-a32d-edd1de2d51a0" />
+
 
 ### 💾 Automatic Saving  
 All images are saved into an `outputs/` folder so you can keep or print them later.
