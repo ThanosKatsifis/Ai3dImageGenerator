@@ -1,6 +1,7 @@
 
 
-<img width="1536" height="1024" alt="Create a wide banner" src="https://github.com/user-attachments/assets/03c2dace-46d7-40a3-89bd-3accbbd334d6" />
+<img width="768" height="512" alt="Create_a_wide_banner_50" src="https://github.com/user-attachments/assets/b0bc8849-9b29-4297-bb6c-f20d66698796" />
+
 
 ### _Turn tiny ideas into huge 3D creations — instantly!_
 
