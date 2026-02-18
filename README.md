@@ -1,6 +1,7 @@
 
 
-# 🌟 AI 3D Design Generator  
+<img width="1536" height="1024" alt="Create a wide banner" src="https://github.com/user-attachments/assets/03c2dace-46d7-40a3-89bd-3accbbd334d6" />
+
 ### _Turn tiny ideas into huge 3D creations — instantly!_
 
 Welcome to the **AI 3D Design Generator**, a Tkinter-powered desktop app that transforms your text prompts into **beautiful, high‑resolution 3D-style images** using OpenAI’s image models.  
